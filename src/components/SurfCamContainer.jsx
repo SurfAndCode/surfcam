@@ -13,7 +13,7 @@ const SurfCamContainer = ({ defaultSpotId, favorites, addFavorite, removeFavorit
   const { streamUrls, spotName } = useStreamUrls(spotId);
 
   const title = spotName || spotId;
-  document.title = `Surfcam Magician - ${title}`;
+  document.title = `GC SurfCams - ${title}`;
 
   const isFavorite = !!favorites[spotId];
 
