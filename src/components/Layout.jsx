@@ -14,8 +14,8 @@ const Layout = ({ favorites, children }) => {
         }}
       >
         <div className="container">
-          <h1 className="title has-text-white">Surfcam Magician</h1>
-          <h2 className="subtitle has-text-light">When you're itching for the waves, the only lotion is the ocean</h2>
+          <h1 className="title has-text-white">Gold Coast SurfCams</h1>
+          <h2 className="subtitle has-text-light">Let'go Surfing!</h2>
         </div>
       </section>
       <section className="section">
@@ -35,7 +35,7 @@ const Layout = ({ favorites, children }) => {
       </section>
       <footer className="footer">
         <div className="content has-text-centered">
-          <p>Built by Maxworld Technologies</p>
+          <p>Built by Waves</p>
         </div>
       </footer>
     </>

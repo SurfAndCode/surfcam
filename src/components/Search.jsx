@@ -27,7 +27,7 @@ const Search = () => {
   return (
     <>
       <div className="control is-large">
-        <input className="input is-large" type="text" placeholder="Ventura Point" value={query} onChange={updateQuery} />
+        <input className="input is-large" type="text" placeholder="Burleigh Heads" value={query} onChange={updateQuery} />
       </div>
       <div
         style={{
