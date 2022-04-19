@@ -9,7 +9,7 @@ import useFavorites from "./hooks/useFavorites";
 // 404 - Just 'cause you're riding the high tide, doesn't mean you've chosen the right course.
 // Error - Sometimes, the bird sings, sometimes it coughs up a worm.
 
-const DEFAULT_SPOT_ID = "584204204e65fad6a77096b1";
+const DEFAULT_SPOT_ID = "5d7972ccac5ab700011a8e35";
 
 const App = () => {
   const { favorites, addFavorite, removeFavorite } = useFavorites();
