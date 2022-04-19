@@ -15,7 +15,7 @@ const Layout = ({ favorites, children }) => {
       >
         <div className="container">
           <h1 className="title has-text-white">Gold Coast SurfCams</h1>
-          <h2 className="subtitle has-text-light">Let'go Surfing!</h2>
+          <h2 className="subtitle has-text-light">Let's Go Surfing!</h2>
         </div>
       </section>
       <section className="section">
