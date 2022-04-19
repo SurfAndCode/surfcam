@@ -8,7 +8,8 @@
     "react-dom": "18.0.0",
     "react-player": "2.10.0",
     "react-router-dom": "6.3.0",
-    "react-scripts": "5.0.0"
+    "react-scripts": "5.0.0",
+    "yarn": "^1.22.18"
   },
   "devDependencies": {
     "http-proxy-middleware": "2.0.4",
